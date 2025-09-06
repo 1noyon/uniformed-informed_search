@@ -1,2 +1,2 @@
 # uniformed-informed_search
-uniformed&amp;informed search Description
+uniformed&informed search Description
